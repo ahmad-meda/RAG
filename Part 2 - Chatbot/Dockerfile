@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Set environment variables
-ENV GOOGLE_API_KEY=your_google_api_key_here
+ENV GROQ_API_KEY=your_groq_api_key_here
 
 # Run the Streamlit app
 CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
