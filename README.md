@@ -13,7 +13,7 @@ This application is implemented using python.The interface is hosted using Strea
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/ahmad-meda/RAG
-    cd jessup-cellars-chatbot
+    cd RAG
     ```
 
 2. **Create and activate a virtual environment**:
