@@ -1,0 +1,7 @@
+streamlit==1.24.1
+llama-index==0.10.10
+PyMuPDF==1.22.0
+llama-index-llms-groq
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+python-dotenv
